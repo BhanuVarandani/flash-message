@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.box{
+    height: 100%;
+    width: 100%;
+    background-image: url(https://images.unsplash.com/photo-1718631974631-afe2cd201801?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    object-fit: cover;
+}
+.box1{
+    height: 81%;
+    width: 23%;
+    background-color: antiquewhite;
+    position: absolute;
+    margin-top: 4%;
+    left: 21%;
+}
+.one{
+    position: absolute;
+    margin-top: 12%;
+    left: 28%;
+    color: black;
+}
+.three{
+    position: absolute;
+    margin-top: 29%;
+    color: black;
+    left: 15%;
+}
+.img1{
+    height: 18%;
+    width: 21%;
+    position: absolute;
+    left: 35%;
+    margin-top: 48%;
+    object-fit: cover;
+}
+.button1{
+    position: absolute;
+    margin-top: 90%;
+    left: 34%;
+    padding: 3px 22px;
+    background-color: rgb(27, 231, 27);
+    border: none;
+    border-radius: 7px;
+}
+.box2{
+    height: 80%;
+    width: 23%;
+    background-color: rgb(226, 76, 76);
+    position: absolute;
+    margin-top: 4%;
+    left: 55%;
+}
+.two{
+    position: absolute;
+    margin-top: 12%;
+    left: 28%;
+    color: white;
+}
+.four{
+    
+    position: absolute;
+    margin-top: 29%;
+    color:white;
+    left: 17%;
+}
+.img2{
+    height: 18%;
+    width: 21%;
+    position: absolute;
+    left: 35%;
+    margin-top: 48%;
+    object-fit: cover;
+}
+.button2{
+    position: absolute;
+    margin-top: 90%;
+    left: 34%;
+    padding: 3px 22px;
+    background-color: rgba(255, 0, 0, 0.562);
+    border: none;
+    border-radius: 7px;
+}
